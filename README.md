@@ -1,8 +1,12 @@
-﻿PyPlayer
+﻿\# PyPlayer
 
-This is a ~~bucket~~ simple MP3 player written in [Python](Python.org). It’s in the name of it. It runs in Terminal, no GUI. (text based). Tested on mac, if you have Linux please tell me if it works.
+\*\*\*
 
-Features
+This is a ~~bucket~~ simple MP3 player written in [Python](Python.org). It’s in the name of it. It runs in Terminal, no GUI. (text based). Tested on **mac**, if you have **Linux** please tell me if it works.
+
+\# Features
+
+\*\*\* 
 
 - Playing MP3 files (duh),
 - Shuffle songs,
@@ -12,15 +16,19 @@ Features
 - Time elapsed,
 - ~~SECRET SUPER HACKER MODE~~
 
-Required Libraries
+\# Required depencies
+
+\*\*\*
 
 To install them, simply run
 
 ```pip install pygame keyboard```
 
-How 2 Use
+\# How 2 Use
 
-Controls:
+\*\*\*
+
+**Controls:**
 
 N – Next song
 
@@ -32,13 +40,19 @@ S – Stop song
 
 Q – Quit
 
+Alt + F4 – Rage quit
+
 See! Really simple! Also, bc of keyboard, you need to run it with Admin or sudo. On mac you need to also enable Acessibility settings to Terminal, so the controls work.
 
-Licence
+\# License
 
-Free and Open-Source for everyone, so feel free to contribute by forking the repo and submitting a pull request!
+\*\*\*
 
-Future plans
+**Free** and **Open-Source** for everyone, so feel free to contribute by forking the repo and submitting a pull request!
+
+\# Future Plans
+
+\*\*\*
 
 - Basic personalitisasion, like changing the colo(u)r of the text,
 - Fade in/out song,
@@ -48,7 +62,9 @@ Future plans
 - Seeking,
 - Search.
 
-Contributors
+#Contributiours
+
+\*\*\*
 
 - Me
 - ChatGPT
@@ -56,7 +72,9 @@ Contributors
 - [TND | The Nebula Devs](https://discord.gg/hRNAeNsR)
 - You
 
-Additonal information
+\# Additional information
 
-I am also a beginner DJ, Listen to my songs on [SoundCloud!](https://on.soundcloud.com/CxMxfFqiiucMoFPQ7) Thank you for using PyPlayer, or even just viewing helps. This software is NOT final. Everythings gonna be better, just be patient.
+\*\*\*
+
+I am also a beginner **DJ**, Listen to my songs on [SoundCloud!](https://on.soundcloud.com/CxMxfFqiiucMoFPQ7) Thank you for using PyPlayer, or even just viewing helps. This software is NOT final. Everythings gonna be better, just be patient.
 
