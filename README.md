@@ -1,6 +1,6 @@
 ﻿# PyPlayer
 
-This is a ~~bucket~~ simple MP3 player written in [Python](Python.org). It’s in the name of it. It runs in Terminal, no GUI. (text based). Tested on **mac**, if you have **Linux** please tell me if it works.
+This is a ~~bucket~~ simple MP3 player written in [Python](Python.org). It’s in the name of it. It runs in Terminal, no GUI. (text based). Tested on **mac**, if you have **Linux** please tell me if it works. THis will of course will not replace VLC or anything like that, this is just a project.
 
 # Features
 
@@ -10,7 +10,7 @@ This is a ~~bucket~~ simple MP3 player written in [Python](Python.org). It’s i
 - Stop music, Continue music,
 - Volume controls,
 - Time elapsed,
-- ~~SECRET SUPER HACKER MODE~~
+- ~~SECRET SUPER HACKER MODE~~.
 
 # Required depencies
 
@@ -19,21 +19,26 @@ To install them, simply run
 ```pip install pygame keyboard```
 
 # How 2 Use
-**Controls:**
+In the **Main Menu** there are 4 options. 
+- Play music
+- Information
+- Settings
+- Quit
+
+**Settings**: is of course, where you can set the tings of the program.
+**Information**: shows the basic functions of the program.
+**Quit**: Quits.
+**Play music**: will first ask for the directory of the music and then show you the:
+**Music Controls:**
 
 N – Next song
-
 P – Previous song
-
-S – Stop song
-
+S – Stop menu
 -/+ - Change volume
-
 Q – Quit
-
 Alt + F4 – Rage quit
 
-See! Really simple! Also, bc of keyboard, you need to run it with Admin or sudo. On mac you need to also enable Acessibility settings to Terminal, so the controls work.
+See! Really simple! Also, because of keyboard, you need to run it with Admin or sudo. On mac you need to also enable Acessibility settings to Terminal, so the controls work. (in the music controls menu)
 
 # License
 **Free** and **Open-Source** for everyone, so feel free to contribute by forking the repo and submitting a pull request!
