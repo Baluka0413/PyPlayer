@@ -1,6 +1,6 @@
-﻿# PyPlayer
+# PyPlayer
 
-This is a ~~bucket~~ simple MP3 player written in [Python](Python.org). It’s in the name of it. It runs in Terminal, no GUI. (text based). Tested on **mac**, if you have **Linux** please tell me if it works. THis will of course will not replace VLC or anything like that, this is just a project.
+This is a simple MP3 player written in [Python](Python.org). It’s in the name of it. It runs in Terminal, no GUI. (text based). Tested on **mac**, if you have **Linux** please tell me if it works. THis will of course will not replace VLC or anything like that, this is just a project.
 
 # Features
 
@@ -9,8 +9,7 @@ This is a ~~bucket~~ simple MP3 player written in [Python](Python.org). It’s i
 - Next, Previous song,
 - Stop music, Continue music,
 - Volume controls,
-- Time elapsed,
-- ~~SECRET SUPER HACKER MODE~~.
+- Time elapsed.
 
 # Required depencies
 
